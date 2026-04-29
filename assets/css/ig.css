@@ -515,7 +515,7 @@ h6 {
   font-size: 14px;
   padding-bottom: 50px;
   position: relative;
-}
+} 
 
 .footer .footer-newsletter {
   background-color: color-mix(in srgb, var(--heading-color), transparent 95%);
